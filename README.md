@@ -19,7 +19,7 @@
 <a href = "mailto:contato@panuness1010@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pdro1409" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-          
+<div class="tenor-gif-embed" data-postid="13167413482750165588" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588">Hack Hacking Sticker</a>from <a href="https://tenor.com/search/hack-stickers">Hack Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
            
