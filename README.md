@@ -22,7 +22,6 @@ I enjoy building web and mobile applications, solving problems, and learning new
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pdro1409&theme=aura&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228)](https://github.com/pdro1409)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro1409&layout=compact&theme=aura&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/pdro1409)
-[![Pedro github stats](https://github-readme-stats-mu-red-43.vercel.app/api?username=pdro1409&count_private=true&show_icons=true&theme=aura&card_width=1124&border_radius=8&border_color=1E2228&custom_title=STATS)](https://github.com/pdro1409)
 
 <h2> SKILLS: </h2>
 <a href='https://github.com/pdro1409'><img width ='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg'></a>
