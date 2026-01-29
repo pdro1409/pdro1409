@@ -31,15 +31,6 @@ I enjoy transforming ideas into products and continuously improving my technical
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pdro1409&theme=aura&border_radius=8)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro1409&layout=compact&theme=aura)
-
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
