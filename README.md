@@ -33,13 +33,10 @@ I enjoy transforming ideas into products and continuously improving my technical
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=pdro1409&theme=aura&border_radius=8" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=pdro1409&theme=aura&border_radius=8)
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro1409&layout=compact&theme=aura" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro1409&layout=compact&theme=aura)
+
 
 ---
 
