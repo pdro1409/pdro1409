@@ -10,11 +10,10 @@
 </div>
 
 <h2> ABOUT ME:</h2>
-<p>Hi! I'm Pedro Augusto, a 22-year-old Software Engineering student and passionate developer.
+<p>Hi! I'm Pedro Augusto, a 23-year-old Software Engineering student and passionate developer.
 I enjoy building web and mobile applications, solving problems, and learning new technologies.</p>
 
-- 🎮 I’m passionate about electronic games;<br>
-- 🙃 I’m have 22 year old;<br>
+- 🙃 I’m have 23 year old;<br>
 - 🎓 I’m a Software Engineer student.<br>
 
 <h2>STATS:</h2>
