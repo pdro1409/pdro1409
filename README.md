@@ -1,15 +1,19 @@
 # 👋 Hi, I'm Pedro Augusto
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Mid-Level+Full+Stack+Developer;Building+Scalable+Software;Node.js+%7C+TypeScript+%7C+React;Backend+%7C+APIs+%7C+System+Design" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Mid-Level+Full+Stack+Developer;Building+Scalable+Software;Node.js+%7C+TypeScript+%7C+React;Backend+%7C+APIs+%7C+System+Design" />
 </p>
 
 <p align="center">
   <a href="https://github.com/pdro1409">
-    <img src="https://komarev.com/ghpvc/?username=pdro1409&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=pdro1409&label=Profile%20Views&color=8B5CF6&style=flat" />
   </a>
   <a href="https://github.com/pdro1409?tab=followers">
-    <img src="https://img.shields.io/github/followers/pdro1409?label=Followers&style=flat" />
+    <img src="https://img.shields.io/github/followers/pdro1409?label=Followers&style=flat&color=8B5CF6" />
   </a>
 </p>
 
@@ -58,7 +62,7 @@ I enjoy working across the entire software lifecycle — from **database modelin
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,php,lua,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,php,lua,bash&theme=dark" />
 </p>
 
 **Main:** TypeScript · JavaScript · Python
@@ -68,7 +72,7 @@ I enjoy working across the entire software lifecycle — from **database modelin
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 </p>
 
 React · Next.js · HTML5 · CSS3 · Tailwind CSS
@@ -78,7 +82,7 @@ React · Next.js · HTML5 · CSS3 · Tailwind CSS
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
 </p>
 
 Node.js · Express · NestJS · REST APIs · Authentication · Webhooks · Integrations
@@ -88,7 +92,7 @@ Node.js · Express · NestJS · REST APIs · Authentication · Webhooks · Integ
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase&theme=dark" />
 </p>
 
 PostgreSQL · MySQL · Redis · Supabase · SQL
@@ -188,7 +192,7 @@ Security is part of the architecture, not an afterthought.
 ## ☁️ DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,redis" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,redis&theme=dark" />
 </p>
 
 * Docker
@@ -240,11 +244,11 @@ Software Architecture
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pdro1409&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=pdro1409&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=A855F7&icon_color=A855F7"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro1409&layout=compact&langs_count=8&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro1409&layout=compact&langs_count=8&hide_border=true&title_color=A855F7"
     height="170"
   />
 </p>
@@ -255,7 +259,7 @@ Software Architecture
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=pdro1409&hide_border=true&mode=weekly"
+    src="https://streak-stats.demolab.com/?user=pdro1409&hide_border=true&mode=weekly&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"
     height="180"
   />
 </p>
@@ -266,7 +270,7 @@ Software Architecture
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdro1409&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdro1409&theme=github_dark"
     width="100%"
   />
 </p>
@@ -299,7 +303,7 @@ Software Architecture
 <p align="center">
   <a href="https://github.com/pdro1409?tab=repositories">
     <img
-      src="https://img.shields.io/badge/🚀%20Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/🚀%20Explore%20my%20repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 </p>
@@ -335,15 +339,15 @@ Maintainable enough to evolve
 <p align="center">
 
   <a href="mailto:panuness1010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-panuness1010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-panuness1010%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://linkedin.com/in/pdro1409p">
-    <img src="https://img.shields.io/badge/LinkedIn-pdro1409-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-pdro1409-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/pdro1409">
-    <img src="https://img.shields.io/badge/GitHub-pdro1409-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-pdro1409-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </p>
@@ -351,5 +355,5 @@ Maintainable enough to evolve
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A855F7&height=120&section=footer" />
 </p>
