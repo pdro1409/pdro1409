@@ -1,80 +1,73 @@
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/L1R1TV3HqS4V0L8b6U/giphy.gif"
-    width="650"
-  />
-</p>
-
-<h1 align="center">Hi, I'm Pedro Augusto 👋</h1>
+# 👋 Hi, I'm Pedro Augusto
 
 <p align="center">
-  <strong>Mid-Level Full Stack Developer</strong>
-</p>
-
-<p align="center">
-  Software Engineering Student · Backend · Web · APIs · System Design
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Mid-Level+Full+Stack+Developer;Building+Scalable+Software;Node.js+%7C+TypeScript+%7C+React;Backend+%7C+APIs+%7C+System+Design" />
 </p>
 
 <p align="center">
   <a href="https://github.com/pdro1409">
-    <img src="https://img.shields.io/badge/GitHub-pdro1409-181717?style=for-the-badge&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=pdro1409&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  <a href="https://linkedin.com/in/pdro1409p">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Augusto-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/pdro1409?tab=followers">
+    <img src="https://img.shields.io/github/followers/pdro1409?label=Followers&style=flat" />
   </a>
-  <a href="mailto:panuness1010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-panuness1010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pdro1409&style=flat-square&color=blue" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **Pedro Augusto**, a **Mid-Level Full Stack Developer** and Software Engineering student focused on building **scalable, reliable and maintainable software**.
+I'm a **Mid-Level Full Stack Developer** and Software Engineering student focused on building **scalable, reliable and maintainable software**.
 
-I primarily work with **TypeScript, Node.js, Express, React, Next.js and PostgreSQL**, developing full-stack applications, APIs, integrations, automation workflows and business systems.
+My main stack is centered around **TypeScript, Node.js, Express, React and Next.js**, with a strong interest in backend engineering, system architecture and distributed systems.
 
-My main interests are **backend engineering, system design, software architecture, distributed systems and scalable applications**.
+I enjoy working across the entire software lifecycle — from **database modeling and system design to APIs, infrastructure, deployment and production monitoring**.
 
-I enjoy taking products from **idea to production** — designing the architecture, building the backend, modeling databases, developing interfaces, integrating external services and deploying the application.
+```text
+💻 Full Stack Development
+⚙️ Backend Engineering
+🏗️ System Design & Software Architecture
+🗄️ PostgreSQL & Database Architecture
+🔐 Security & Data Isolation
+🚀 Scalability & Performance
+🤖 Automation & AI
+☁️ Cloud & Infrastructure
+```
 
-### ⚡ What I Do
+---
 
-* 💻 Full Stack Development
-* ⚙️ Node.js & Express Backend
+## ⚡ What I Do
+
+* 🚀 Full Stack Web Development
+* ⚙️ Backend Development with Node.js & Express
 * 🏗️ System Design & Software Architecture
-* 🔌 REST APIs & Third-party Integrations
+* 🔌 REST APIs & Third-Party Integrations
 * 🗄️ PostgreSQL & Database Architecture
-* 🔐 RLS & Multi-tenant Data Isolation
-* 🧩 Clean Code, SOLID & Design Patterns
-* 🤖 Automation & AI-powered Applications
+* 🔐 RLS — Row Level Security
+* 🏢 Multi-Tenant Systems & Data Isolation
+* 🧹 Clean Code, SOLID & Design Patterns
+* 🤖 Automation & AI-powered Solutions
 * 🐳 Docker & Infrastructure
-* 🚀 Performance & Scalability
+* 📈 Performance, Scalability & Reliability
+* 🔄 Queues, Caching & Asynchronous Processing
 
 ---
 
-# 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,php,lua,bash" />
 </p>
 
-**Primary:** TypeScript · JavaScript · Python
-
-**Additional:** Java · C# · PHP · Lua · Bash
+**Main:** TypeScript · JavaScript · Python
 
 ---
 
 ### 🎨 Frontend
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
@@ -84,136 +77,197 @@ React · Next.js · HTML5 · CSS3 · Tailwind CSS
 
 ### ⚙️ Backend
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-Node.js · Express · NestJS · REST APIs · Webhooks · Authentication · Background Jobs · Queues
+Node.js · Express · NestJS · REST APIs · Authentication · Webhooks · Integrations
 
 ---
 
-### 🗄️ Database & Backend Services
+### 🗄️ Databases
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase" />
 </p>
 
-PostgreSQL · MySQL · Redis · Supabase · SQL · Database Modeling · Indexing · Transactions · Query Optimization · RLS
+PostgreSQL · MySQL · Redis · Supabase · SQL
 
----
+**Database knowledge:**
 
-### ☁️ DevOps & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" />
-</p>
-
-Docker · Linux · Nginx · Git · GitHub · CI/CD · VPS · Cloud Deployments
-
----
-
-# 🏗️ System Design & Architecture
-
-I'm particularly interested in designing systems using:
-
-* Scalable architectures
-* Modular monoliths
-* Microservices
-* Distributed systems
-* Event-driven architecture
-* Message queues
-* Asynchronous processing
-* Caching
-* Load balancing
-* Fault tolerance
-* Observability
-* API design
-* Database scalability
-* Multi-tenant architectures
-* Data isolation
-
-### 🔐 Security
-
-* Authentication & Authorization
-* JWT
-* RBAC
+* Data Modeling
+* Indexes
+* Query Optimization
+* Transactions
+* Constraints
+* Data Integrity
 * PostgreSQL RLS
-* Multi-tenant data isolation
-* API security
-* Input validation
-* Secure database access
-* Environment & secret management
+* Multi-Tenant Architecture
+* Connection Management
+* Caching
 
 ---
 
-# 🚀 Areas of Interest
+## 🏗️ System Design
 
-<p align="center">
+I have a strong interest in designing systems that remain **maintainable and reliable as they grow**.
 
-`SaaS` · `CRM` · `AI` · `Automation` · `APIs` · `Cloud` · `Real-time Systems` · `System Design`
+```text
+                    ┌──────────────────────┐
+                    │       CLIENTS        │
+                    │ Web / Mobile / API   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    API / GATEWAY     │
+                    │ Auth · Rate Limit    │
+                    └──────────┬───────────┘
+                               │
+                 ┌─────────────┴─────────────┐
+                 ▼                           ▼
+        ┌────────────────┐          ┌────────────────┐
+        │   Backend      │          │    Workers     │
+        │ Node / Express │          │ Async Jobs     │
+        └───────┬────────┘          └───────┬────────┘
+                │                           │
+                └─────────────┬─────────────┘
+                              ▼
+                    ┌──────────────────────┐
+                    │       Redis          │
+                    │ Cache / Queues       │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │     PostgreSQL       │
+                    │ Data · RLS · Indexes │
+                    └──────────────────────┘
+```
 
+### Concepts
+
+* Clean Architecture
+* SOLID
+* Design Patterns
+* RESTful APIs
+* Modular Architecture
+* Distributed Systems
+* Event-Driven Architecture
+* Message Queues
+* Asynchronous Processing
+* Caching
+* Database Scalability
+* Load Balancing
+* Fault Tolerance
+* Observability
+* Authentication & Authorization
+* RBAC
+* Multi-Tenant Systems
+* Data Isolation
+
+---
+
+## 🔐 Security
+
+Security is part of the architecture, not an afterthought.
+
+* 🔑 JWT Authentication
+* 👥 RBAC
+* 🛡️ PostgreSQL Row Level Security
+* 🏢 Multi-Tenant Data Isolation
+* 🔒 Secure Database Access
+* ✅ Input Validation
+* 🌐 API Security
+* 🔐 Secrets Management
+* 🚦 Rate Limiting
+* 🔄 Token & Session Management
+
+---
+
+## ☁️ DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,redis" />
 </p>
 
-I'm especially interested in building **business platforms, SaaS products, automation systems, AI-powered applications and scalable backend services**.
+* Docker
+* Linux
+* Nginx
+* Git & GitHub
+* CI/CD
+* VPS & Cloud Infrastructure
+* Reverse Proxies
+* Containers
+* Redis
+* Monitoring & Observability
 
 ---
 
-# 📚 Currently Exploring
+## 🎯 Areas of Interest
 
-* 🏗️ **System Design**
-* 🌐 **Distributed Systems**
-* ⚡ **NestJS**
-* 📱 **Flutter**
-* 🐍 **Python**
-* ☁️ **Cloud Architecture**
-* 📊 **Observability**
-* 🚀 **High-scale Backend Systems**
+```text
+SaaS
+CRM & Business Systems
+AI & Automation
+APIs & Integrations
+Real-Time Applications
+Scalable Backend Systems
+Cloud Architecture
+Distributed Systems
+DevOps
+Software Architecture
+```
 
 ---
 
-# 📊 GitHub Statistics
+## 📚 Currently Exploring
+
+* 🏗️ System Design
+* 🌐 Distributed Systems
+* ⚙️ Advanced Node.js
+* 🦅 NestJS
+* 🐍 Python
+* ☁️ Cloud Architecture
+* 🚀 DevOps & Observability
+* 📊 High-Scale Backend Systems
+* 📱 Flutter
+* 🔐 Advanced Security
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=pdro1409&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
-    height="180"
+    height="170"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro1409&layout=compact&langs_count=8&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+# 🔥 Coding Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=pdro1409&hide_border=true&mode=weekly"
     height="180"
   />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Contribution Overview
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=pdro1409&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=pdro1409&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    width="95%"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pdro1409&hide_border=true&area=true"
-    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdro1409&theme=github"
+    width="100%"
   />
 </p>
 
@@ -222,56 +276,80 @@ I'm especially interested in building **business platforms, SaaS products, autom
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/pdro1409/pdro1409/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pdro1409/pdro1409/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pdro1409/pdro1409/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/pdro1409/pdro1409/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/pdro1409">
+  <a href="https://github.com/pdro1409?tab=repositories">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=pdro1409&repo=REPLACE_WITH_REPO_1&hide_border=true"
-    />
-  </a>
-
-  <a href="https://github.com/pdro1409">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=pdro1409&repo=REPLACE_WITH_REPO_2&hide_border=true"
+      src="https://img.shields.io/badge/🚀%20Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 </p>
+
+> ⭐ Check my pinned repositories to see the projects I'm currently working on.
+
+---
+
+# 💡 Developer Philosophy
+
+<p align="center">
+
+**Build it. Understand it. Improve it.**
+
+</p>
+
+I believe good software is more than code that works.
+
+It's about creating systems that are:
+
+```text
+Simple enough to understand
+Reliable enough to trust
+Scalable enough to grow
+Secure enough to protect data
+Maintainable enough to evolve
+```
 
 ---
 
 # 📫 Let's Connect
 
 <p align="center">
+
   <a href="mailto:panuness1010@gmail.com">
     <img src="https://img.shields.io/badge/Email-panuness1010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://linkedin.com/in/pdro1409p">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Augusto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-pdro1409-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/pdro1409">
     <img src="https://img.shields.io/badge/GitHub-pdro1409-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:06b6d4&height=140&section=footer"
-  />
-</p>
-
-<p align="center">
-  <i>Building ideas into software.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer" />
 </p>
